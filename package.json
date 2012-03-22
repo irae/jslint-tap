@@ -1,0 +1,17 @@
+{
+  "author": "Irae Carvalho <irae@irae.pro.br>",
+  "name": "node-jslint",
+  "description": "A CLI for running JSLint with some helpers.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/irae/node-jslint",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/irae/node-jslint.git"
+  },
+  "main": "jslint",
+  "engines": {
+    "node": ">=0.4.1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
