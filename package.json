@@ -1,18 +1,18 @@
 {
     "author": "Irae Carvalho <irae@irae.pro.br>",
-    "name": "node-jslint",
+    "name": "jslint-tap",
     "description": "A CLI for running JSLint with some helpers.",
     "version": "0.0.1",
     "homepage": "https://github.com/irae/node-jslint",
     "repository": {
         "type": "git",
-        "url": "git://github.com/irae/node-jslint.git"
+        "url": "git://github.com/irae/jslint-tap.git"
     },
     "licenses": [{
         "type": "MIT",
         "url": "http://www.opensource.org/licenses/mit-license.php"
     }],
-    "bin": { "jslint": "./bin/hint" },
+    "bin": { "jslinttap": "./bin/lint" },
     "main": "packages/JSLint/jslint",
     "engines": {
         "node": ">=0.4.1"
