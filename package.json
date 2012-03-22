@@ -8,6 +8,10 @@
     "type": "git",
     "url": "git://github.com/irae/node-jslint.git"
   },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }],
   "main": "jslint",
   "engines": {
     "node": ">=0.4.1"
