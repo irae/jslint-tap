@@ -2,7 +2,7 @@
     "author": "Irae Carvalho <irae@irae.pro.br>",
     "name": "node-jslint",
     "description": "A CLI for running JSLint with some helpers.",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "homepage": "https://github.com/irae/node-jslint",
     "repository": {
         "type": "git",
